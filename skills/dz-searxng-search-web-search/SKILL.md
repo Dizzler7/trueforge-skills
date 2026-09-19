@@ -1,5 +1,5 @@
 ---
-name: searxng-web-search
+name: dz-searxng-search-web-search
 description: Search the live web anonymously across multiple search engines (Google, Bing, DuckDuckGo, arXiv, GitHub) using the local SearXNG meta-search engine. Use whenever you need fresh real-time information, research, news, or technical documentation.
 ---
 

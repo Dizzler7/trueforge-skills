@@ -1,5 +1,5 @@
 ---
-name: typst-pdf-reports
+name: dz-doc-diagram-renderer-typst-pdf-reports
 description: Design and compile publication-grade, beautifully formatted PDF documents, whitepapers, invoices, and technical reports using Typst via doc-diagram-renderer.
 tools:
   - doc-diagram-renderer

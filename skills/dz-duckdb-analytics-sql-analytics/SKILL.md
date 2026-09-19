@@ -1,5 +1,5 @@
 ---
-name: duckdb-sql-analytics
+name: dz-duckdb-analytics-sql-analytics
 description: Execute analytical SQL queries on Parquet, CSV, JSON, and SQLite files with ultra-fast DuckDB in-process analytics and export summaries or Excel workbooks.
 tools:
   - duckdb-analytics

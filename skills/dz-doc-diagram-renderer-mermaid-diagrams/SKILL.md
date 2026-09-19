@@ -1,5 +1,5 @@
 ---
-name: mermaid-diagrams
+name: dz-doc-diagram-renderer-mermaid-diagrams
 description: Render architecture diagrams, flowcharts, sequence charts, and visual mindmaps into clean SVG or PNG images using the doc-diagram-renderer MCP tools.
 tools:
   - doc-diagram-renderer

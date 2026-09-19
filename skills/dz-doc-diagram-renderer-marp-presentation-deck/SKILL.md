@@ -1,5 +1,5 @@
 ---
-name: marp-presentation-deck
+name: dz-doc-diagram-renderer-marp-presentation-deck
 description: Create modern slide decks, pitch presentations, and lecture slides in Markdown and render them to HTML or PDF using Marp via doc-diagram-renderer.
 tools:
   - doc-diagram-renderer

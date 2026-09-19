@@ -1,5 +1,5 @@
 ---
-name: crawl4ai-web-scraper
+name: dz-crawl4ai-scraper-web-scraper
 description: Extract high-fidelity, clean Markdown and structured content from any web page or web application. Handles single-page JavaScript apps, dynamic DOMs, article extraction, and JavaScript execution via local headless Chromium.
 ---
 
